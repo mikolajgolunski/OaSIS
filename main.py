@@ -1,3 +1,7 @@
+#Created by Mikołaj Gołuński and Piotr Ciochoń
+#December 2019
+#Licensed with LGPL v3.0 license. More information in LICENSE file.
+
 import os
 import math
 import numpy as np
